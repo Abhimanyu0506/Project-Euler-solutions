@@ -10,8 +10,7 @@ This repository contains my personal solutions to various [Project Euler](https:
 
 | Problem No. | Title                          |  Method        | Explanation |
 |-------------|--------------------------------|----------------|-------------|
-| 1           | Multiples of 3 and 5           | mathematically | [View](https://github.com/Abhimanyu0506/Project-Euler solutions/blob/main/Problem%201) |
-
+| 1           | Multiples of 3 and 5           | mathematically | [View](./explanations/problem1.md) |
 | 2           | Even Fibonacci Numbers         | Python         | [View](./explanations/problem2.md) |
 | 3           | Largest Prime Factor           | Python         | [View](./explanations/problem3.md) |
 | 4           | Largest Palindrome Product     | Python         | [View](./explanations/problem4.md) |
