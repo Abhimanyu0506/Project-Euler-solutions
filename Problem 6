@@ -1,0 +1,16 @@
+Problem:
+***Find the difference between the sum of the squares of the first n natural numbers and the square of the sum.
+where n = 100:
+Sum of the squares - Square of the sum = Difference ***
+
+SOLUTION :
+
+(1 + 2 + ... + n)^2 = n^2 * (n+1)^2 * 1/4
+ so, 
+100^2*(100+1)^2*1/4 = 10000*10201*1/4 = 25,502,500
+
+1^2 + 2^2 + ... + n^2 = n * (n+1) * (2n+1) * 1/6
+so,b
+100*(100+1)*(2*100+1)*1/6 = 100*101*201*1/6 = 338,350
+ so the difference between square of sum and sum of squares till 100 is
+ 25,502,500-338,350 = 25,164,150 is the answer.
