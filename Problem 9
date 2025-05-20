@@ -16,5 +16,32 @@ Find the product .
 
 
 
-SOLUTION:
+SOLUTION: 
+
+What's given in the problem  :
+\(a^{2}+b^{2}=c^{2}\) \(a+b+c=1000\)       
+Helpful information :  
+Pythagorean triplets can be generated using Euclid's formula: \(a=m^{2}-n^{2}\), (b=2mn), (c=m^{2}+n^{2}), where (m>n>0).
+ Express (a), (b), and (c) using Euclid's formula  
+a=m^{2}-n^{2}
+b=2mn 
+c=m^{2}+n^{2}
+Substitute into a+b+c=1000 
+m^{2}-n^{2}+2mn+m^{2}+n^{2}=1000
+2m^{2}+2mn=1000
+2m(m+n)=1000
+m(m+n)=500
+500=20*25  so  m=20. and  m+n=25.    n=25-20=5.
+ Calculate a,b and c 
+a=20^{2}-5^{2}=400-25=375 
+b=2*20*5=200
+c=20^{2}+5^{2}=400+25=425
+
+then the product of abc is
+a*b*c = 375*200*425 = 31875000.
+
+The final answer is 31875000
+
+
+
 
