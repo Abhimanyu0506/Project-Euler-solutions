@@ -15,7 +15,7 @@ This repository contains my personal solutions to various [Project Euler](https:
 | 5           | Smallest multiple              | Mathematically 
 | 6           | Difference in sum of square and squares sum | Mathematically        |
 | 9           | Special Pythagorean Triplet    |  Mathematically              |                            
-
-------
+| 19          | Counting Sunday's              |  Python                      |
+-------------------------------------------------------------------------------
 
 ## Folder Structure
