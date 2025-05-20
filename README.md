@@ -8,14 +8,14 @@ This repository contains my personal solutions to various [Project Euler](https:
 
 ## Solved Problems
 
-| Problem No. | Title                          |  Method        | Explanation |
-|-------------|--------------------------------|----------------|-------------|
-| 1           | Multiples of 3 and 5           | mathematically | [View](./explanations/problem1.md) |
-| 2           | Even Fibonacci Numbers         | Python         | [View](./explanations/problem2.md) |
-| 3           | Largest Prime Factor           | Python         | [View](./explanations/problem3.md) |
-| 4           | Largest Palindrome Product     | Python         | [View](./explanations/problem4.md) |
+| Problem No. | Title                          |  Method                      |
+|-------------|--------------------------------|------------------------------|
+| 1           | Multiples of 3 and 5           | mathematically               |
+| 2           | Even Fibonacci Numbers         | Python and mathematical      |
+| 6           | Difference in sum of square    | Mathematically               |
+|             |     and square of son          |                              |
+|             |                                |                              |
 
-> More p
 
 ---
 
