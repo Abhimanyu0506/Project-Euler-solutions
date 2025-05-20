@@ -16,7 +16,8 @@ This repository contains my personal solutions to various [Project Euler](https:
 | 6           | Difference in sum of square and squares sum | Mathematically        |
 | 9           | Special Pythagorean Triplet    |  Mathematically              |                            
 | 19          | Counting Sunday's              |  Python                      |
-| 13          | Large Sum                      |  Python                      |          
+| 13          | Large Sum                      |  Python                      |   
+| 20          | Factorial digit sum            |  Python                      |  
 -------------------------------------------------------------------------------
 
 ## Folder Structure
