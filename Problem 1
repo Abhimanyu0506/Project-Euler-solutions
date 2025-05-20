@@ -1,3 +1,14 @@
+# Project Euler Problem 1: Multiples of 3 and 5
+
+**Problem Statement:**
+
+If we list all the natural numbers below 10 that are multiples of 3 or 5,  
+we get 3, 5, 6 and 9. The sum of these multiples is 23.
+
+**Find the sum of all the multiples of 3 or 5 below 1000.**
+
+
+SOLUTION:
 
 Here i am using the formulae for arithmetic progressions. For example, to find the sum of the terms 3,6,9,12,..., you would use (n/2)(a+l), where n is the number of terms, a is the first term, and l is the last term. But to find the last term requires a bit of work. The nth term is given by a+(n-1)d, where d is the common difference. So we need to solve 3+3(n-1)=1000, giving 3(n-1)=997, and n=997/3+1=333.333... However, n must be integer, so int(333.333...)=333, and checking, 3+3(333-1)=999; this is the last term before 1000.
 
