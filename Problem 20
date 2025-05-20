@@ -1,0 +1,26 @@
+**Problem**
+
+Find the sum of the digits in the number 100! (100 factorial).
+
+Approach
+- Use Python's built-in `math.factorial()` to compute 100!
+- Convert the result to a string.
+- Use a list comprehension to sum the digits.
+
+Python Features Used
+- `math.factorial`
+- List comprehension
+- String to integer conversion
+
+import math
+
+def factorial_digit_sum(n):
+    factorial_result = math.factorial(n)
+    return sum(int(digit) for digit in str(factorial_result))
+
+def main():
+    result = factorial_digit_sum(100)
+    print(f"The sum of the digits in 100! is: {result}")
+
+if __name__ == "__main__":
+    main()
