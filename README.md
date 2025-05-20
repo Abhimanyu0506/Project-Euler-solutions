@@ -12,8 +12,8 @@ This repository contains my personal solutions to various [Project Euler](https:
 |-------------|--------------------------------|------------------------------|
 | 1           | Multiples of 3 and 5           | mathematically               |
 | 2           | Even Fibonacci Numbers         | Python and mathematical      |
-| 6           | Difference in sum of square    | Mathematically               |
-              |    and square of sum           |                            
+| 6           | Difference in sum of square and square of sum | Mathematically      |
+|             |                                |                            
 |             |                                |                              |
 
 
