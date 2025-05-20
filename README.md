@@ -11,10 +11,10 @@ This repository contains my personal solutions to various [Project Euler](https:
 | Problem No. | Title                          |  Method                      |
 |-------------|--------------------------------|------------------------------|
 | 1           | Multiples of 3 and 5           | Mathematically               |
-| 2           | Even Fibonacci Numbers         | Python and mathematically      |
+| 2           | Even Fibonacci Numbers         | Python and mathematically     |
 | 5           | Smallest multiple              | Mathematically 
-| 6           | Difference in sum of square and squares sum | Mathematically      |
-|             |                                |                            
+| 6           | Difference in sum of square and squares sum | Mathematically        |
+| 9           | Special Pythagorean Triplet    |  Mathematically              |                            
 
 ------
 
